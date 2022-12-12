@@ -22,6 +22,7 @@ You can customize the value of `BABY_NAME` in `app/settings.py`.
 - Timestamp and Remark can be added per Activity
 - Logged in user's ID will be added under Author filed
 - Timestamp is shown in human readable, natural format
+- Multiple Users can be added to manage the portal
 
 ## Screenshots
 
