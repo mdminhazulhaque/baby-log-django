@@ -26,8 +26,8 @@ You can customize the value of `BABY_NAME` in `app/settings.py`.
 
 ## Screenshots
 
-<img src=".media/Activity.jpg" style="zoom:50%;" />
+<img src=".media/Activity.jpg" style="width:600px;" />
 
-<img src=".media/Log.jpg" style="zoom:50%;" />
+<img src=".media/Log.jpg" style="width:600px;" />
 
-<img src=".media/LogForm.jpg" style="zoom:50%;" />
+<img src=".media/LogForm.jpg" style="width:600px;" />
